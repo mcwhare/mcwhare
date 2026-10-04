@@ -13,7 +13,7 @@ A simple but effective reminder app made with Flutter, available for download on
 Focus trainer app made with React Native. Avaiable for download on the Google Play Store.
 
 ### [Rousscuts.au](https://rousscuts.au)
-Booking platform built for local barbering studio. Designed to remove booking friction for clients and automate workflows for the owner. Significantly improved customer satisfaction while helping scale daily client volume.
+[Behance Showcase](https://www.behance.net/gallery/256055195/Rousscuts-Web-Design) Booking platform built for local barbering studio. Designed to remove booking friction for clients and automate workflows for the owner. Significantly improved customer satisfaction while helping scale daily client volume.
 
 ## Focuses/Skills
 - UI/UX Design
