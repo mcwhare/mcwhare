@@ -5,15 +5,20 @@
 
 ## Projects
 ### Notify - Reminder App
-[Check it out here!](https://play.google.com/store/apps/details?id=com.mcwhare.noti)
+[Check it out here!](https://play.google.com/store/apps/details?id=com.mcwhare.noti) \
 A simple but effective reminder app made with Flutter, available for download on the Google Play Store.
 
 ### Velox - Focus Trainer
-[Google Play](https://play.google.com/store/apps/details?id=com.mcwhare.trainer) | [Behance Showcase](https://www.behance.net/gallery/245965687/Velox-Focus-Trainer-App-Design)
+[Google Play](https://play.google.com/store/apps/details?id=com.mcwhare.trainer) | [Behance Showcase](https://www.behance.net/gallery/245965687/Velox-Focus-Trainer-App-Design) \
 Focus trainer app made with React Native. Avaiable for download on the Google Play Store.
 
+### JOBJOBJOB - Job Application Visualiser
+[Try it here!](https://mcwhare.github.io/jobjobjob/) \
+Just like When2Meet but for job applications. Track and share your job applications with your friends and build a graph together!
+
 ### [Rousscuts.au](https://rousscuts.au)
-[Behance Showcase](https://www.behance.net/gallery/256055195/Rousscuts-Web-Design) Booking platform built for local barbering studio. Designed to remove booking friction for clients and automate workflows for the owner. Significantly improved customer satisfaction while helping scale daily client volume.
+[Behance Showcase](https://www.behance.net/gallery/256055195/Rousscuts-Web-Design) \ 
+Booking platform built for local barbering studio. Designed to remove booking friction for clients and automate workflows for the owner. Significantly improved customer satisfaction while helping scale daily client volume.
 
 ## Focuses/Skills
 - UI/UX Design
