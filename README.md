@@ -14,10 +14,10 @@ Focus trainer app made with React Native. Avaiable for download on the Google Pl
 
 ### JOBJOBJOB - Job Application Visualiser
 [Try it here!](https://mcwhare.github.io/jobjobjob/) \
-Just like When2Meet but for job applications. Track and share your job applications with your friends and build a graph together!
+Just like When2Meet but for job applications. Track and share your job applications with your friends and build a graph together in real time!
 
 ### [Rousscuts.au](https://rousscuts.au)
-[Behance Showcase](https://www.behance.net/gallery/256055195/Rousscuts-Web-Design) \ 
+[Behance Showcase](https://www.behance.net/gallery/256055195/Rousscuts-Web-Design) \
 Booking platform built for local barbering studio. Designed to remove booking friction for clients and automate workflows for the owner. Significantly improved customer satisfaction while helping scale daily client volume.
 
 ## Focuses/Skills
