@@ -2,6 +2,7 @@
 - Software Engineering student @ Monash University
 - Contract Software Engineer @ PivotPoint Education
 - Freelance Web/App Designer
+- Specialising in Front-end, but can do Full-stack
 
 ## Projects
 ### Notify - Reminder App
@@ -10,7 +11,7 @@ A simple but effective reminder app made with Flutter, available for download on
 
 ### Velox - Focus Trainer
 [Google Play](https://play.google.com/store/apps/details?id=com.mcwhare.trainer) | [Behance Showcase](https://www.behance.net/gallery/245965687/Velox-Focus-Trainer-App-Design) \
-Focus trainer app made with React Native. Avaiable for download on the Google Play Store.
+Focus trainer app made with React Native. Available for download on the Google Play Store.
 
 ### JOBJOBJOB - Job Application Visualiser
 [Try it here!](https://mcwhare.github.io/jobjobjob/) \
@@ -25,12 +26,13 @@ Booking platform built for local barbering studio. Designed to remove booking fr
 - Agentic AI Development
 - Full Stack Application Development
 - Software Quality Testing
+- SAFe Agile Software Project Management
 - Graphic Design
 - Photoshop
 - Video Editing
 - CAD
 - Woodworking
-- Software Project Management
+- Cooking
 
 ## How to reach me
 Shoot me a message on [LinkedIn](https://www.linkedin.com/in/mcwhare/)
